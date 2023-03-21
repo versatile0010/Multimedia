@@ -8,5 +8,6 @@ This is a Course Project of Multimedia programming(2023-Spring), Konkuk Univ.
 |Date|Topic(Link)|Description|
 |------|---|---|
 |2023. 03. 20.|[Realtime Digital filter](https://github.com/versatile0010/Multimedia/tree/main/week3)|Implementation of Moving average filter|
+|2023. 03. 25.|DFT/IDFT|DFT/IDFT|
 
 (🔨 will be updated soon)
