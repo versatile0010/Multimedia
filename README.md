@@ -11,8 +11,7 @@ This is a Course Project of Multimedia programming(2023-Spring), Konkuk Univ.
 |Date|Topic(Link)|Description|
 |------|---|---|
 |2023. 03. 20.|[Realtime Digital filter](https://github.com/versatile0010/Multimedia/tree/main/week3)|Implementation of Moving average filter|
-|2023. 03. 25.|Frequency domain Filter|Implementation of Frequency domain Filter|
-|2023. 04.|Stereo Sound|Implementation of Stereo Sound|
+|2023. 04. 06.|Stereo Sound Redering|Implementation of Stereo Sound|
 |2023. 04.|Speech Recognition & Speech Synthesis|Implementation of Speech Recognition & Synthesis|
 |2023. 04.|Real-time two-dimensional spectrum analyzer|.|
 |2023. 05.|Histogram analysis|.|
